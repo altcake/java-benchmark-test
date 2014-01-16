@@ -1,10 +1,8 @@
-The no of threads has not been specified, defaulting to 1
-  
 Java Grande Forum Thread Benchmark Suite - Version 1.0 - Section 1
-Executing on 1 thread
+Executing on 2 threads
 
-Section1:Barrier:Simple                 	5878301.0	 (barriers/s)
-Section1:Barrier:Tournament             	1.08936168E8	 (barriers/s)
-Section1:ForkJoin:Simple                	1.024E8	 (forkjoins/s)
-Section1:Sync:Method                    	5599070.5	 (synchronisations/s)
-Section1:Sync:Object                    	3931656.8	 (synchronisations/s)
+Section1:Barrier:Simple                 	90071.07	 (barriers/s)
+Section1:Barrier:Tournament             	1176470.6	 (barriers/s)
+Section1:ForkJoin:Simple                	8402.81	 (forkjoins/s)
+Section1:Sync:Method                    	1638137.9	 (synchronisations/s)
+Section1:Sync:Object                    	3014202.8	 (synchronisations/s)
