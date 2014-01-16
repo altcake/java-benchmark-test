@@ -1,0 +1,8 @@
+Java Grande Forum Thread Benchmark Suite - Version 1.0 - Section 2 - Size A
+Executing on 2 threads
+
+Section2:Series:Kernel:SizeA	2.595 (s) 	 7706.7437	 (coefficients/s)
+Section2:LUFact:Kernel:SizeA	0.29 (s) 	 289.08047	 (Mflops/s)
+Section2:Crypt:Kernel:SizeA	0.226 (s) 	 26548.672	 (Kbyte/s)
+Section2:SOR:Kernel:SizeA	1.185 (s) 	 84.38818	 (Iterations/s)
+Section2:SparseMatmult:Kernel:SizeA	0.27 (s) 	 740.7407	 (Iterations/s)

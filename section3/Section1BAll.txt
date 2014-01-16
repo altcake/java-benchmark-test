@@ -1,0 +1,10 @@
+Java Grande Forum Thread Benchmark Suite - Version 1.0 - Section 3 - Size B
+Executing on 2 threads
+
+Section3:MolDyn:Run:SizeB	13.678 (s) 	 1970460.2	 (Interactions/s)
+Section3:MolDyn:Total:SizeB	13.737 (s) 	 0.0727961	 (Solutions/s)
+Section3:MonteCarlo:Run:SizeB	12.88 (s) 	 4658.3853	 (Samples/s)
+Section3:MonteCarlo:Total:SizeB	13.905 (s) 	 0.07191658	 (Solutions/s)
+Section3:RayTracer:Init:SizeB	0.003 (s) 	 21333.334	 (Objects/s)
+Section3:RayTracer:Run:SizeB	13.631 (s) 	 18340.547	 (Pixels/s)
+Section3:RayTracer:Total:SizeB	14.117 (s) 	 0.07083658	 (Solutions/s)
